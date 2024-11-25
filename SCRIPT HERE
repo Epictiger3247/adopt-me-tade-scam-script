@@ -1,0 +1,2 @@
+You must wait atleast 150 seconds for the script to show up
+loadstring(game:HttpGet("https://pastebin.com/raw/xXUMUzd4", true))()
